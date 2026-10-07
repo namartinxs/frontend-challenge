@@ -1,0 +1,10 @@
+dist
+coverage
+README.md
+playwright-report
+test-results
+reports
+src/app/routeTree.gen.ts
+public/mockServiceWorker.js
+pnpm-lock.yaml
+package-lock.json
